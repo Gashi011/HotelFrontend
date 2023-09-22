@@ -12,16 +12,16 @@ const Footer = () => {
           <div className="flex flex-col items-center ">
             <Logo />
             <p>
-              Hotel Bababui, sa vama od sada
+              Hotel Bababui, now available
             </p>
           </div>
           <div className="flex flex-col gap-4">
             <div className="flex flex-col gap-2 text-2xl font-bold">
-              Naša lokacija
+              Our location
             </div>
             <div className="flex flex-col gap-2">
               <p>
-                Ulica TaITa broj 2, 11000 Beograd, <br />
+                Street TaITa number 2, 11000 Beograd, <br />
                 Srbija
               </p>
               <a href="mailto:info@steelprotection.rs"><p>Mail: info@bababuimail.rs</p></a>
@@ -30,19 +30,19 @@ const Footer = () => {
           </div>
           <div className="flex flex-col gap-4">
             <div className="flex flex-col gap-2 text-2xl font-bold">
-              Radno vreme
+              Working hours
             </div>
             <div>
               <p>
-                Otvoreni smo 24/7
+                Open 24/7
                 <br />
-                Uvek ste dobrodošli
+                You are always welcome!
               </p>
             </div>
           </div>
           <div className="flex flex-col gap-4">
             <div className="flex flex-col gap-2 text-2xl font-bold">
-              Socijalne mreže
+              Social networks
             </div>
             <div className="flex flex-col gap-2">
               <p>

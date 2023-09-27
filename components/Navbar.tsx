@@ -35,7 +35,7 @@ const Navbar: React.FC<UserMenuProps> = ({
             <Logo />
             <div></div>
             <div className='md:w-40 xl:w-60'></div>
-            <div className='flex flex-row'> <input className='lg:block text-xl md:text-sm xl:text-md font-bold rounded-lg cursor-pointer'></input><FcSearch size={32} /></div>
+            <div className='flex flex-row'> <input className='lg:block text-xl md:text-sm ml-3 xl:text-md font-bold rounded-lg cursor-pointer'></input><FcSearch size={32} /></div>
             
             <div className="hidden lg:block text-xl sm:text-sm  xl:text-xl  font-bold hover:text-neutral-500 cursor-pointer">
               <div>

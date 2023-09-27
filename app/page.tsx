@@ -7,7 +7,7 @@ export default function Home() {
     <div>
       <div className="text-black  text-4xl xl:text-6xl font-bold text-center z-0">
               Reserve a room!
-            </div>
+        </div>
       <div>
         <Carousel></Carousel>
       </div>
